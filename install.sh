@@ -1,3 +1,5 @@
+#!/bin/bash
+
 sudo cp service_checker.service /etc/systemd/system
 
 sudo cp service_checker.sh /usr/local/bin
